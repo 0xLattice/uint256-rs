@@ -1,0 +1,22 @@
+{
+  "revision": "2c8642b454c57b624e43b06c2f5fcc0f235c044f",
+  "cases": 188,
+  "sha256": "6eb3333f69c36233c1a4d7f55c33f64b953d0fc7c4c0ca3c93f774d4499a9c43",
+  "sources": {
+    "Sources/FixedWidthInteger+BarrettDivision.swift": "30d2c90caa4e8d5b77bfbc499a560f94a27c7100c7a0fac83369fe2853cd0451",
+    "Sources/FixedWidthInteger+LongDivision.swift": "192cdcf8df3bf95c876fc90c52f1cf844e4bf24d35e05c20760358f05c79214b",
+    "Sources/UInt256+BinaryInteger.swift": "06130062c50c43955cb828a0eebce1dbe4dcb049765a9430c947de515e976a16",
+    "Sources/UInt256+Comparable.swift": "40ffb956d74f81e7897786dfe71433457f9dfb2e28017d308ace4c7012ae09fb",
+    "Sources/UInt256+CustomStringConvertible.swift": "e989d88ef610b63a531d63efc15d3bb006f4c519e9b2964a654bb5d4b95203af",
+    "Sources/UInt256+Divide&Conquer.swift": "dd4a1df6636661a5f44fd9997df3d5695ad2fb0e5cc540b1fa77803a562c7479",
+    "Sources/UInt256+Equatable.swift": "0435d27ca82928f03973f4ea3086cbdf71263a59e6fb845308ef3e4fa59c5116",
+    "Sources/UInt256+ExpressibleByIntegerLiteral.swift": "58f2ba8fe82d44042e3202bd343868e3281c928ffc8d993d922a9dfe91d92c7b",
+    "Sources/UInt256+FixedWidthInteger.swift": "fe5c6f023fcb23465b305b97e1cf2432f96c78ac0e97c9a0acb20ac870233109",
+    "Sources/UInt256+Hashable.swift": "f99cf2df51db1daf5f3222cb232e3a9ede0f45524c050aa151b8d903e261f3b4",
+    "Sources/UInt256+Karatsuba.swift": "4d295330ccd77b2327a30ed45dcc5bcd8dc73fc36b174518d1148ada403f607d",
+    "Sources/UInt256+Numeric.swift": "91dbc9c7370e0c6f65a61c49663dfde755514d1eecd22499ca98fa47a430877f",
+    "Sources/UInt256+UnsignedInteger.swift": "1123abc82ae06b2a166545e2fa85acf8ae24f0b65d815583a7ab3e136cca71a8",
+    "Sources/UInt256+arc4random.swift": "313c24fced21cc6a0f16da9c505f9eae74045cf9ac140a4bd7f9b4582c921f9f",
+    "Sources/UInt256.swift": "4d79f2d93e4b6d1d42294b6efeb2758a4c5e186f4a1ada90b58a2aee53a9b76f"
+  }
+}
